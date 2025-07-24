@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shivukumarmh
-- 👀 I’m interested in  Artificial intellegence, Machine Learning , DSA.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on new edge technologies.
+-  Hi, I’m @Shivukumarmh
+- I’m interested in  Artificial intellegence, Machine Learning , DSA.
+-  I’m currently learning Machine Learning
+
 
 
 <!---
